@@ -15,5 +15,5 @@
 
 <p>
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
