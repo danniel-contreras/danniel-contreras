@@ -1,7 +1,7 @@
 <h1 align='center'> Hello world 👋, I'm Daniel Contreras   👨‍💻 </h1>
 
 <p align='center'>
-  I live in El Salvador and workwith VUE JS
+  I live in El Salvador and work with VUE JS
 </p>
 
 <p align='center'>
