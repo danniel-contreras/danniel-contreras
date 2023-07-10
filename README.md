@@ -50,4 +50,6 @@ I believe in continuous learning and staying updated with the latest industry tr
 
 <!-- Coloca el nombre de tu usuario de GitHub en lugar de {username} -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danniel-contreras&theme=blue-green)](https://github.com/danniel-contreras)
+<!-- Reemplaza {username} con tu nombre de usuario de GitHub -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danniel-contreras&theme=blue-green)
 
