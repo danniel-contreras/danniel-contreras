@@ -49,8 +49,14 @@ I believe in continuous learning and staying updated with the latest industry tr
 - UI and UX
 
 <!-- Reemplaza {username} con tu nombre de usuario de GitHub -->
+<!-- Reemplaza {username} con tu nombre de usuario de GitHub -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danniel-contreras&theme=blue-green" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danniel-contreras&theme=blue-green" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danniel-contreras&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </div>
+
+<!-- Reemplaza {username} con tu nombre de usuario de GitHub -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danniel-contreras&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 
