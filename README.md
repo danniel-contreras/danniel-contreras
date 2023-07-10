@@ -1,7 +1,7 @@
 <h1 align='center'> Hello world 👋, I'm Daniel Contreras   👨‍💻 </h1>
 
 <p align='center'>
-  I live in El Salvador and work with VUE JS
+  I live in El Salvador and i love VUE JS and typescript
 </p>
 
 <p align='center'>
@@ -12,7 +12,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/danniel-contreras/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<p>My skills and knowledge</p>
+## 🔧Technologies and Tools
 <p align='center'>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,8 +33,8 @@
 
 - **Grupo Facela** 
   - *Software Developer* (2022-07-19 - 2023-04-2023)
-  - Activities: developing improvements to the production system, management, creation and maintenance of the database, creation of web systems, adaptation of systems to multiple devices, design of responsive systems.
+  - Activities: Developing improvements to the production system, management, creation and maintenance of the database, creation of web systems, adaptation of systems to multiple devices, design of responsive systems.
 
 - **SeedCode SV** 
   - *Co-founder and Frontend Developer* (2023-05-01 - Present)
-  - Description of responsibilities and achievements.
+  - Activities: Development of web applications, PWA, mobile applications, Project Management and frontend instructor
