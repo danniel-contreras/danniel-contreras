@@ -25,3 +25,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<p align='center'>
+  I'm a Technician in Software Development Engineering
+</p>
