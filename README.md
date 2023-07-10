@@ -31,10 +31,10 @@
 </p>
 ## 💼 Work Experience
 
-- **Company Name** Grupo Facela
+- **Grupo Facela** 
   - *Software Developer* (2022-07-19 - 2023-04-2023)
-  - Among my activities were: developing improvements to the production system, management, creation and maintenance of the database, creation of web systems, adaptation of systems to multiple devices, design of responsive systems.
+  - Activities: developing improvements to the production system, management, creation and maintenance of the database, creation of web systems, adaptation of systems to multiple devices, design of responsive systems.
 
-- **Company Name** (City, State)
-  - *Role* (Date - Date)
+- **SeedCode SV** 
+  - *Co-founder and Frontend Developer* (2023-05-01 - Present)
   - Description of responsibilities and achievements.
