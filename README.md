@@ -38,3 +38,11 @@
 - **SeedCode SV** 
   - *Co-founder and Frontend Developer* (2023-05-01 - Present)
   - Activities: Development of web applications, PWA, mobile applications, Project Management and frontend instructor
+
+## 🌱 Currently Learning
+
+I believe in continuous learning and staying updated with the latest industry trends. Here are some technologies and skills that I'm currently focusing on:
+
+- Dart and Flutter 
+- Kotlin and Android
+- UI and UX
