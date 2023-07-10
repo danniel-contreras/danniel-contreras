@@ -26,6 +26,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align='center'>
+<p align='center' style="font-size:22px">
   I'm a Technician in Software Development Engineering
 </p>
