@@ -29,3 +29,12 @@
 <p align='center' style="font-size:30px">
   I'm a Technician in Software Development Engineering
 </p>
+## 💼 Work Experience
+
+- **Company Name** Grupo Facela
+  - *Software Developer* (2022-07-19 - 2023-04-2023)
+  - Among my activities were: developing improvements to the production system, management, creation and maintenance of the database, creation of web systems, adaptation of systems to multiple devices, design of responsive systems.
+
+- **Company Name** (City, State)
+  - *Role* (Date - Date)
+  - Description of responsibilities and achievements.
