@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align='center' style="font-size:30px">
@@ -46,3 +47,7 @@ I believe in continuous learning and staying updated with the latest industry tr
 - Dart and Flutter 
 - Kotlin and Android
 - UI and UX
+
+<!-- Coloca el nombre de tu usuario de GitHub en lugar de {username} -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danniel-contreras&theme=blue-green)](https://github.com/danniel-contreras)
+
