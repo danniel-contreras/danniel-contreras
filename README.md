@@ -34,6 +34,7 @@
 
 - **Grupo Facela**
   <br/>
+  <br/>
   <img src="https://grupofacela.com/wp-content/uploads/2019/02/main-logo-facela-top.png" style="width:150px" />
    <br/>
   - *Software Developer* (2022-07-19 - 2023-04-2023)
