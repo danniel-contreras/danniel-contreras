@@ -1,11 +1,11 @@
 <h1 align='center'> Hello world 👋, I'm Daniel Contreras   👨‍💻 </h1>
 
 <p align='center'>
-  I live in El Salvador and i love VUE JS and typescript
+  Co-founder and software developer in SeedCode SV
 </p>
 
 <p align='center'>
-  <a href="#"><img width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></a>
+  <a href="#"><img width="250px" src="https://i.pinimg.com/originals/9a/40/66/9a40669527b26067a392bd0dd4554285.png"></a>
 </p>
 
 
