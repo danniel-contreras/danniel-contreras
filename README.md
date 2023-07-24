@@ -33,7 +33,8 @@
 ## 💼 Work Experience
 
 - **Grupo Facela**
-  <img src="https://grupofacela.com/wp-content/uploads/2019/02/main-logo-facela-top.png" />
+- <br/>
+  <img src="https://grupofacela.com/wp-content/uploads/2019/02/main-logo-facela-top.png" style="width:100px" />
   - *Software Developer* (2022-07-19 - 2023-04-2023)
   - Activities: Developing improvements to the production system, management, creation and maintenance of the database, creation of web systems, adaptation of systems to multiple devices, design of responsive systems.
 
