@@ -12,7 +12,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/danniel-contreras/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/danniel-conntreras/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 ## 🔧Technologies and Tools
 <p align='center'>
