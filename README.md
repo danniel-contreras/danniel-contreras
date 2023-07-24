@@ -40,7 +40,11 @@
   - *Software Developer* (2022-07-19 - 2023-04-2023)
   - Activities: Developing improvements to the production system, management, creation and maintenance of the database, creation of web systems, adaptation of systems to multiple devices, design of responsive systems.
 
-- **SeedCode SV** 
+- **SeedCode SV**
+   <br/>
+  <br/>
+  <img src="https://i.pinimg.com/originals/3d/4d/30/3d4d3090408e27d955138dda9f7969ac.png" style="width:150px" />
+   <br/>
   - *Co-founder and Frontend Developer* (2023-05-01 - Present)
   - Activities: Development of web applications, PWA, mobile applications, Project Management and frontend instructor
 
