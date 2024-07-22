@@ -5,7 +5,7 @@
 </p>
 
 <p align='center'>
- <img  src="https://i.pinimg.com/564x/9a/40/66/9a40669527b26067a392bd0dd4554285.jpg">
+ <img  src="https://i.pinimg.com/originals/e0/f4/a4/e0f4a40807e01f846aa0d77f738ba721.png">
 </p>
 <p>
   Passionate about software development and with more than 4 years of experience in the market, I have become an expert in creating cutting-edge technological solutions. My focus is on innovation, quality and customer satisfaction. Furthermore, I am proud to be a co-founder of SeedCode SV, an industry leading company specializing in custom software development for various industries. Working hand in hand with a talented team, we have been able to offer efficient and scalable solutions that have driven the success of our clients. I am always looking for new challenges that allow me to continue growing professionally and adding value through my experience in software development. Connect with me to explore collaboration opportunities or brainstorm ideas in this exciting field!
