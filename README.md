@@ -47,7 +47,7 @@ a simple programmer
 - **Grupo Facela**
   <br/>
   <br/>
-  <img src="https://grupofacela.com/wp-content/uploads/2019/02/main-logo-facela-top.png" style="width:150px" />
+  <img src="https://media.licdn.com/dms/image/D4E0BAQHQiclW0SPQJQ/company-logo_200_200/0/1707334867834/industrias_facela_s_a_de_c_v_logo?e=2147483647&v=beta&t=4GJIPrIN_uxKrmWZnmZ2p7a0TpfvJ-BjmHXuSDlZyxc" style="width:150px" />
    <br/>
   - *Software Developer* (2022-07-19 - 2023-04-2023)
   - Activities: Developing improvements to the production system, management, creation and maintenance of the database, creation of web systems, adaptation of systems to multiple devices, design of responsive systems.
